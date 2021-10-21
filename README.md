@@ -8,7 +8,8 @@ Analysis of Kickstarter campaign data to determine the optimal funding strategy 
 * Across both counties, theater campaigns were shown to be the most popular funding category, vastly outstripping other categories
 
 *U.S. Category Outcomes*
-<img src="https://user-images.githubusercontent.com/90064437/138205061-79d352ec-21de-458a-8cd7-36673b0bfcf4.png" width="300" height="">
+
+<img src="https://user-images.githubusercontent.com/90064437/138205061-79d352ec-21de-458a-8cd7-36673b0bfcf4.png" width="500" height="">
 
 *U.S. Category Outcomes*
 ![US Category Outcomes](https://user-images.githubusercontent.com/90064437/138203305-2a736aa8-e5cc-4f01-8aec-544fb1f52364.png)
