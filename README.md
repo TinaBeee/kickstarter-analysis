@@ -10,3 +10,6 @@ Analysis of Kickstarter campaign data to determine the optimal funding strategy 
 
 * See here for an image on UK funding outcomes by category:
 ![image_name]([Category_Outcome_UK](https://user-images.githubusercontent.com/90064437/138203543-b94497ca-b2c8-433f-b246-028cde6a4dea.png)
+
+![Category Outcomes UK](https://user-images.githubusercontent.com/90064437/138204257-431391e2-96e1-4e37-bae2-92d22587266e.png)
+
