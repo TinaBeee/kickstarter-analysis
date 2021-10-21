@@ -11,10 +11,11 @@ Analysis of Kickstarter campaign data to determine the optimal funding strategy 
 
 <img src="https://user-images.githubusercontent.com/90064437/138205061-79d352ec-21de-458a-8cd7-36673b0bfcf4.png" width="500" height="">
 
-*U.S. Category Outcomes*
-![US Category Outcomes](https://user-images.githubusercontent.com/90064437/138203305-2a736aa8-e5cc-4f01-8aec-544fb1f52364.png)
 
 *UK Category Outcomes*
-![UK Category Outcomes](https://user-images.githubusercontent.com/90064437/138203543-b94497ca-b2c8-433f-b246-028cde6a4dea.png)
+
+<img src="https://user-images.githubusercontent.com/90064437/138203543-b94497ca-b2c8-433f-b246-028cde6a4dea.png" width="500" height="">
+
+
 
 
