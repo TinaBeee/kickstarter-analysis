@@ -1,4 +1,4 @@
-### Analyzing of Kickstarter campaigns for the U.S. / UK market
+### Analyzing Kickstarter campaigns for the U.S. / UK market
 Analysis of Kickstarter campaign data to determine the optimal funding strategy for a theater & musical project in the U.S. and UK
 
 ## **Findings**
