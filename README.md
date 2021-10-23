@@ -1,5 +1,5 @@
 ### Analyzing Kickstarter campaigns with Excel
-Analysis of Kickstarter campaign data to determine the optimal funding strategy for a theater & musical project in the U.S. and UK
+Analysis of Kickstarter campaign data to determine the optimal funding strategy for a theater & musical projects
 
 ## Overview of Project
 Project analysis was based on a Kickstarter dataset of more than 4,000 funding campaigns, with the goal of determining the impact of launch time and funding goal on the campaigns' success. 
