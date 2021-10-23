@@ -32,16 +32,24 @@ The second analysis the client wanted us to perform was the campaign outcome for
 
 Filtering for theater campaigns, the analysis clearly showed the highest level of success during the late spring and summer. Success levels dropped off steeply beginning in October, reaching their lowest level in December. But campaign launches overall decreased during the winter months. Overall, the greatest amount of campaigns were launched in May - the month that also marked the highest level of successful campaigns. Based on the data analyzed, we would recommend launching a theater Kickstarter campaign in May.
 
-<img src="https://user-images.githubusercontent.com/90064437/138573095-ecb85645-86eb-42fb-ac6e-83ae0e0ca837.png" width="500" height="")
+<img src="https://user-images.githubusercontent.com/90064437/138573095-ecb85645-86eb-42fb-ac6e-83ae0e0ca837.png" width="500" height="">
      
 ### Analysis of Outcomes Based on Goals
 
+Looking at how campaign outcomes for theater plays correlate with their funding goal we found that cheaper campaigns with funding targets of below $1,000 showed the highest level of success. More than three quarters of those low-cost campaigns were completed successfully. Campaigns targeting a funding range of between $45,000 and $49,999, as well as between $25,000 and $29,999 showed the lowest likelihood of success, with none or only 20% of those campaigns, respectively, concluding successfully. Interestingly enough, the dataset showed that campaigns targeting funding of between $35,000 and $44,999 showed a sudden uptick in success rates at 67%. More qualitative analysis is needed to understand that unexpected success rate.
 
-     
+Based on our analysis, we would recommend a target funding range of below $5,000, or between $35,000 and $44,999 for the highest likelihood of success.
 
+<img src="https://user-images.githubusercontent.com/90064437/138573323-794b5b94-d7dc-41d8-860b-55ca4f628cc6.png" width="500" height="">
+
+    
 ### Challenges and Difficulties Encountered
 
 The challenge in completing the pivot table consisted of sorting the outcome data into both the 'Columns' and 'Values' area. Challenges also could have arisen in sorting the pivot table for the 'Date Created Conversion' in 'Rows'. Because the client was most interested in the impact of a particular month on the campaign's outcome, we had to drop Excel's selection of 'Year' and 'Quarter' from the 'Row' area of the pivot table.
+
+The challenge in analyzing outcomes based on goals was in using the `COUNTIFS()` function in Excel. I did not immediately understand how the function works and intially employed filters on my main Kickstarter data. But I quickly realized that the `COUNTIFS()` function disregards manual filters and instead looks at all the data in the dataset as if filters were not set. Once I understood that `COUNTIFS()` is smarter than I originally gave it credit for, I could simply tell it to look up the desired values on its own, and could simply copy and paste the command across all rows, each time simply modifying one of the parameters without having to retype the entire function.
+
+
 
 
 
